@@ -1,0 +1,15 @@
+D:\PR\test lab 2\UDP\bin\Debug\net6.0\UDP.exe
+D:\PR\test lab 2\UDP\bin\Debug\net6.0\UDP.deps.json
+D:\PR\test lab 2\UDP\bin\Debug\net6.0\UDP.runtimeconfig.json
+D:\PR\test lab 2\UDP\bin\Debug\net6.0\UDP.dll
+D:\PR\test lab 2\UDP\bin\Debug\net6.0\UDP.pdb
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.csproj.AssemblyReference.cache
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.AssemblyInfoInputs.cache
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.AssemblyInfo.cs
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.csproj.CoreCompileInputs.cache
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.dll
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\refint\UDP.dll
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.pdb
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\UDP.genruntimeconfig.cache
+D:\PR\test lab 2\UDP\obj\Debug\net6.0\ref\UDP.dll
